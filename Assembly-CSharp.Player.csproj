@@ -60,13 +60,13 @@
     <Compile Include="Assets\Scripts\ToNextLevelScript.cs" />
     <Compile Include="Assets\Scripts\Red.cs" />
     <Compile Include="Assets\Scripts\Gris.cs" />
+    <Compile Include="Assets\Scripts\CameraCtroller.cs" />
+    <Compile Include="Assets\Scripts\CameraChangeArea.cs" />
     <Compile Include="Assets\Scripts\Stone.cs" />
     <Compile Include="Assets\Scripts\WinPlace.cs" />
     <Compile Include="Assets\Scripts\TearPet.cs" />
     <Compile Include="Assets\Scripts\TearItem.cs" />
     <Compile Include="Assets\Scripts\Tear.cs" />
-    <Compile Include="Assets\Scripts\CameraCtroller.cs" />
-    <Compile Include="Assets\Scripts\CameraChangeArea.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

@@ -10,13 +10,13 @@
 Documents/
 
 Assets/data
-Assets/Resources
+
 Tools/release
 Tools/Heaven Gate/Windows/imgui.ini
 
 Assets/data.meta
 Assets/code.meta
-Assets/Resources.meta
+
 
 Assets/AddressableAssetsData
 Assets/AddressableAssetsData.meta
@@ -25,7 +25,7 @@ Assets/StreamingAssets/build_info
 Assets/StreamingAssets/build_info.meta
 
 Assets/AssetStoreTools*
-Assets/Resources/Storys/AutoSave~
+
 /Config
 
 # Auto Generation
